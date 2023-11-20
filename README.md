@@ -14,6 +14,13 @@ estudante do curso de Sistemas para Internet com paixão por tecnologia e curios
 
 Vamos conectar e colaborar para tornar a tecnologia mais acessível e inovadora. 👋
 
+### 📈 Estatísticas
+
+<a href="https://github.com/GeovannyDinizM">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannyDinizM&layout=compact&langs_count=10&theme=github_dark">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GeovannyDinizM&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</a>
+
 ## Contatos:
 
 <section>
